@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I just started streaming
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.brandonlondon.vercel.app/api/spotify-playing" alt="Brandon Spotify Playing" width="350" />](https://open.spotify.com/user/sqda9z6sb62wzdxcook8hkfgf)
+[![Spotify](https://novatorem-mu-bay.vercel.app/api/spotify)](https://open.spotify.com/user/sqda9z6sb62wzdxcook8hkfgf)
 
 ### Connect with me:
 
