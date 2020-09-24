@@ -1,6 +1,6 @@
 ### Hello, My name is Brandon and i'm a Developer👋
 
-[![Twitch Status](https://img.shields.io/twitch/status/Nerblespork))](https://www.twitch.tv/Nerblespork)
+[![Twitch Status](https://img.shields.io/twitch/status/Nerblespork)](https://www.twitch.tv/Nerblespork)
 [![Twitter Follow](https://img.shields.io/twitter/follow/brandonlondon31?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/brandonlondon31)
 
 ## I am a Developer, Engineer, and Dungeon Master!
